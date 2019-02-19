@@ -8,6 +8,8 @@ int main()
 {
     std::cout << "Hello World!\n"; 
 	std::cout << "This is GIT GUI!\n";
+
+	std::cout << "To check whether the GIT GUI works!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
